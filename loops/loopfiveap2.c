@@ -1,0 +1,1 @@
+// display the ap 4,7,10,13,16.......upto n terms 
